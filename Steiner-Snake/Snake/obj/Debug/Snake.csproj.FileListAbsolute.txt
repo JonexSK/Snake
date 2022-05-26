@@ -1,0 +1,18 @@
+K:\main\C#\Windows forms\Snake\Snake\Snake\bin\Debug\Snake.exe.config
+K:\main\C#\Windows forms\Snake\Snake\Snake\bin\Debug\Snake.exe
+K:\main\C#\Windows forms\Snake\Snake\Snake\bin\Debug\Snake.pdb
+K:\main\C#\Windows forms\Snake\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+K:\main\C#\Windows forms\Snake\Snake\Snake\obj\Debug\Snake.Form1.resources
+K:\main\C#\Windows forms\Snake\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+K:\main\C#\Windows forms\Snake\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+K:\main\C#\Windows forms\Snake\Snake\Snake\obj\Debug\Snake.exe
+K:\main\C#\Windows forms\Snake\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\Samo\Desktop\c#\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Samo\Desktop\c#\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Samo\Desktop\c#\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Samo\Desktop\c#\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\Samo\Desktop\c#\Snake\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\Samo\Desktop\c#\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Samo\Desktop\c#\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\Samo\Desktop\c#\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Samo\Desktop\c#\Snake\Snake\obj\Debug\Snake.pdb
